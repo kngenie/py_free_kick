@@ -1,5 +1,4 @@
 import pygame
-pygame.init()
 
 
 cancha = pygame.image.load("imagenes/cancha chica.png")

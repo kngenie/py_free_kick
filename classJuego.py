@@ -3,7 +3,6 @@ import imagenes
 import sprite
 import math
 import time
-pygame.init()
 
 
 

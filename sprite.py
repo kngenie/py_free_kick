@@ -1,5 +1,4 @@
 import pygame
-pygame.init
 
 class sprite(pygame.sprite.Sprite):
     def __init__(self,imagen,x = 0,y = 0,rectangles = False):
