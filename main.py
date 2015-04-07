@@ -5,8 +5,6 @@ import classJuego
 pygame.init()
 
 class eventosPygame:
-    def __init__(self):
-        self.exit = False
     def devolver(self):
         while True:
             mouse = [False, 0, 0]
